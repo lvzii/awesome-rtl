@@ -18,7 +18,7 @@
 | UVLLM        | RTL Debug                | singl module                   | SEU        | [2024.10-UVLLM-[DAC]](https://arxiv.org/abs/2411.16238)                                                                                                 | [amyuch/UVLLM](https://github.com/amyuch/UVLLM)                                                                               |           | -                                          |
 | ChipBench    | generate;debug;ref model | single module;multi module;cpu | -          | [2026.2-ChipBench](https://arxiv.org/abs/2601.21448?utm_source=chatgpt.com)                                                                       | [github](https://github.com/zhongkaiyu/ChipBench)                                                                             |           | a full flow framework，several data inside |
 | AssertSolver | RTL Debug assertion      | single module                  | SEU        | [2025.3-AssertSolver-[DAC]](https://arxiv.org/abs/2503.04057)                                                                                           | [github](https://github.com/lvzii/AssertSolver)                                                                               | ⭐        | -                                          |
-
+|HWE-Bench | debug |  | PKU | [2026.4-HWE_Bench-[]](https://arxiv.org/pdf/2604.14709) | | | |
 # Dataset
 
 | Name | Category | Author Org | Paper | Link | Notes |
