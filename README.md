@@ -42,3 +42,18 @@
 | Yosys-SMTBMC      | SMT求解    | 有界模型检测     | Assertion验证  |
 | JasperGold (商业) | 工业Formal | 完整Property验证 | 工业级验证     |
 | OneSpin (商业)    | Formal     | RTL属性验证      | 高端芯片验证   |
+
+# Verilator & UVM
+
+为了纯开源仿真工具使用UVM，使用[verilator支持的uvm](https://github.com/chipsalliance/uvm-verilator)
+
+Opensource is future
+
+
+[UVM](https://www.accellera.org/downloads/standards/uvm)
+
+
+
+
+# Acknowledgement
+Great [CHIPS Alliance](https://www.chipsalliance.org/)! [chisel](https://github.com/chipsalliance/chisel)原来也是他们的
