@@ -42,6 +42,7 @@
 | Yosys-SMTBMC      | SMT求解    | 有界模型检测     | Assertion验证  |
 | JasperGold (商业) | 工业Formal | 完整Property验证 | 工业级验证     |
 | OneSpin (商业)    | Formal     | RTL属性验证      | 高端芯片验证   |
+| XLS (开源) (not an officially supported Google product)    | IR(中间件语言)(dslx语言写硬件代码->可转rtl)     | Accelerated HW Synthesis      | x   |
 
 # Verilator & UVM
 
