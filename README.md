@@ -43,6 +43,8 @@
 | JasperGold (商业) | 工业Formal | 完整Property验证 | 工业级验证     |
 | OneSpin (商业)    | Formal     | RTL属性验证      | 高端芯片验证   |
 | XLS (开源) (not an officially supported Google product)    | IR(中间件语言)(dslx语言写硬件代码->可转rtl)     | Accelerated HW Synthesis      | x   |
+|[pyslang](https://github.com/MikePopoloski/pyslang) | SystemVerilog解析器     | SystemVerilog解析器      | 代码分析、工具开发   | x   |
+
 
 # Verilator & UVM
 
