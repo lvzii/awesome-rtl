@@ -44,6 +44,17 @@
 | OneSpin (商业)    | Formal     | RTL属性验证      | 高端芯片验证   |
 | XLS (开源) (not an officially supported Google product)    | IR(中间件语言)(dslx语言写硬件代码->可转rtl)     | Accelerated HW Synthesis      | x   |
 |[pyslang](https://github.com/MikePopoloski/pyslang) | SystemVerilog解析器     | SystemVerilog解析器      | 代码分析、工具开发   | x   |
+|[pyuvm](https://github.com/pyuvm/pyuvm) | UVM仿真框架     | Python实现的UVM      | Python驱动仿真      | x   |
+
+## 开源项目
+
+[VCD_ANALYZER](https://github.com/neveltyc/VCD_ANALYZER) | 纯为本vcd波形查询工具 for llm
+
+[circt](https://github.com/llvm/circt) | IR(中间件语言)     一个整顿工具链的项目
+
+[TraceWeave](https://github.com/gokeshenzhen/TraceWeave) | 波形分析的mcp.咋搞这么复杂
+
+[circuit-tracer](https://github.com/decoderesearch/circuit-tracer) | 模型找电路图，不知道找啥
 
 
 # Verilator & UVM
